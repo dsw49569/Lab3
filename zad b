@@ -1,5 +1,0 @@
-#!/bin/bash
-
-git config --global user.email 49569@student.dsw.edu.pl
-git config --global user.name Szymon
-
